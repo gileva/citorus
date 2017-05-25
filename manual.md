@@ -60,7 +60,7 @@
 3.  Область географических координат объекта.
 4.  Инструменты экспорта/импорта геоданных объекта.
 
-![](https://github.com/gileva/citorus/blob/master/Image%20173.png?raw=true "Рисунок 1 – Универсальная геокатегория")
+![](https://github.com/gileva/citorus/blob/master/ris1.png?raw=true "Рисунок 1 – Универсальная геокатегория")
 
 <small> Рисунок 1 – Универсальная геокатегория </small>
 
