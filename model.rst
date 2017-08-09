@@ -1475,7 +1475,7 @@ GIS-сервере CITORUS. Подключение удаленного раст
 .. |image0| image:: https://github.com/citoruspm/GeoData/blob/master/ris1.png?raw=true
 .. |image1| image:: https://github.com/citoruspm/GeoData/blob/master/2.png?raw=true
 .. |image2| image:: https://github.com/citoruspm/GeoData/blob/master/3.png?raw=true
-.. |image3| image:: https://github.com/citoruspm/GeoData/lob/master/1.png?raw=true
+.. |image3| image:: https://github.com/citoruspm/GeoData/blob/master/1.png?raw=true
 .. |image4| image:: https://github.com/citoruspm/GeoData/blob/master/4.png?raw=true
 .. |image5| image:: https://github.com/citoruspm/GeoData/blob/master/5.png?raw=true
 .. |image6| image:: https://github.com/citoruspm/GeoData/blob/master/ris2.png?raw=true
