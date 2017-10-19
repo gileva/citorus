@@ -61,7 +61,7 @@
 
 .. figure:: _static/sozdanie_obektov_roditelej_1.png
        :scale: 100 %
-       :align: center
+       :align: right
        
        Рисунок 1 – Создание контейнера
 
@@ -71,7 +71,7 @@
 
 .. figure:: _static/sozdanie_obektov_roditelej_2.png
        :scale: 100 %
-       :align: center
+       :align: right
        Рисунок 2 – Карточка контейнера
 
 Дерево объектов автоматически обновится и в выбранной папке отобразится
@@ -2483,154 +2483,3 @@ img
            :align: center
 
 Рисунок 102 – Инструменты управления таблицей
-
-.. |image0| image:: https://github.com/citoruspm/GeoData/blob/master/20.png?raw=true
-.. |image1| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_obektov_roditelej_1.png?raw=true
-.. |image2| image:: https://github.com/citoruspm/GeoData/blob/master/27.png?raw=true
-.. |image3| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_obektov_roditelej_2.png?raw=true
-.. |image4| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_obektov_1.png?raw=true
-.. |image5| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_obektov_2.png?raw=true
-.. |image6| image:: https://github.com/citoruspm/GeoData/blob/master/27.png?raw=true
-.. |image7| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_obektov_3.png?raw=true
-.. |image8| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_obektov_4.png?raw=true
-.. |image9| image:: https://github.com/citoruspm/GeoData/blob/master/podschet_potomkov_1.png?raw=true
-.. |image10| image:: https://github.com/citoruspm/GeoData/blob/master/podschet_potomkov_2.png?raw=true
-.. |image11| image:: https://github.com/citoruspm/GeoData/blob/master/porjadok_sortirovki_potomkov_1.png?raw=true
-.. |image12| image:: https://github.com/citoruspm/GeoData/blob/master/32.png?raw=true
-.. |image13| image:: https://github.com/citoruspm/GeoData/blob/master/cql_zapros_1.png?raw=true
-.. |image14| image:: https://github.com/citoruspm/GeoData/blob/master/cql_zapros_2.png?raw=true
-.. |image15| image:: https://github.com/citoruspm/GeoData/blob/master/cql_zapros_3.png?raw=true
-.. |image16| image:: https://github.com/citoruspm/GeoData/blob/master/cql_zapros_4.png?raw=true
-.. |image17| image:: https://github.com/citoruspm/GeoData/blob/master/27.png?raw=true
-.. |image18| image:: https://github.com/citoruspm/GeoData/blob/master/26.png?raw=true
-.. |image19| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_obektov_1.png?raw=true
-.. |image20| image:: https://github.com/citoruspm/GeoData/blob/master/upravlenie_obektami_v_rezhime_redaktirovanija_1.png?raw=true
-.. |image21| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_obektov_3.png?raw=true
-.. |image22| image:: https://github.com/citoruspm/GeoData/blob/master/prosmotr_zapusk_1.png?raw=true
-.. |image23| image:: https://github.com/citoruspm/GeoData/blob/master/kopirovanie_obektov_1.png?raw=true
-.. |image24| image:: https://github.com/citoruspm/GeoData/blob/master/24.png?raw=true
-.. |image25| image:: https://github.com/citoruspm/GeoData/blob/master/kopirovanie_obektov_2.png?raw=true
-.. |image26| image:: https://github.com/citoruspm/GeoData/blob/master/kopirovanie_obektov_3.png?raw=true
-.. |image27| image:: https://github.com/citoruspm/GeoData/blob/master/peremeshhenie_obektov_1.png?raw=true
-.. |image28| image:: https://github.com/citoruspm/GeoData/blob/master/25.png?raw=true
-.. |image29| image:: https://github.com/citoruspm/GeoData/blob/master/peremeshhenie_obektov_2.png?raw=true
-.. |image30| image:: https://github.com/citoruspm/GeoData/blob/master/peremeshhenie_obektov_3.png?raw=true
-.. |image31| image:: https://github.com/citoruspm/GeoData/blob/master/peremeshhenie_obektov_4.png?raw=true
-.. |image32| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_svjazi_1.png?raw=true
-.. |image33| image:: https://github.com/citoruspm/GeoData/blob/master/kopirovanie_obektov_2.png?raw=true
-.. |image34| image:: https://github.com/citoruspm/GeoData/blob/master/20.png?raw=true
-.. |image35| image:: https://github.com/citoruspm/GeoData/blob/master/21.png?raw=true
-.. |image36| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_svjazi_3.png?raw=true
-.. |image37| image:: https://github.com/citoruspm/GeoData/blob/master/udalenie_svjazi_1.png?raw=true
-.. |image38| image:: https://github.com/citoruspm/GeoData/blob/master/22.png?raw=true
-.. |image39| image:: https://github.com/citoruspm/GeoData/blob/master/udalenie_svjazi_4.png?raw=true
-.. |image40| image:: https://github.com/citoruspm/GeoData/blob/master/pereimenovanie_obektov_1.png?raw=true
-.. |image41| image:: https://github.com/citoruspm/GeoData/blob/master/pereimenovanie_obektov_2.png?raw=true
-.. |image42| image:: https://github.com/citoruspm/GeoData/blob/master/dobavlenie_v_izbrannoe_1.png?raw=true
-.. |image43| image:: https://github.com/citoruspm/GeoData/blob/master/dobavlenie_v_izbrannoe_2.png?raw=true
-.. |image44| image:: https://github.com/citoruspm/GeoData/blob/master/otkrytie_novoj_vkladki_1.png?raw=true
-.. |image45| image:: https://github.com/citoruspm/GeoData/blob/master/otkrytie_novoj_vkladki_2.png?raw=true
-.. |image46| image:: https://github.com/citoruspm/GeoData/blob/master/vydelenie_obektov_1.png?raw=true
-.. |image47| image:: https://github.com/citoruspm/GeoData/blob/master/invertirovat_vydelenie_1.png?raw=true
-.. |image48| image:: https://github.com/citoruspm/GeoData/blob/master/ustanovka_ukazatelja_1.png?raw=true
-.. |image49| image:: https://github.com/citoruspm/GeoData/blob/master/udalenie_obektov_1.png?raw=true
-.. |image50| image:: https://github.com/citoruspm/GeoData/blob/master/udalenie_obektov_2.png?raw=true
-.. |image51| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image52| image:: https://github.com/citoruspm/GeoData/blob/master/udalenie_obektov_3.png?raw=true
-.. |image53| image:: https://github.com/citoruspm/GeoData/blob/master/prava_dostupa_1.png?raw=true
-.. |image54| image:: https://github.com/citoruspm/GeoData/blob/master/prava_dostupa_2.png?raw=true
-.. |image55| image:: https://github.com/citoruspm/GeoData/blob/master/prava_dostupa_3.png?raw=true
-.. |image56| image:: https://github.com/citoruspm/GeoData/blob/master/indeks_populjarnosti_1.png?raw=true
-.. |image57| image:: https://github.com/citoruspm/GeoData/blob/master/upravlenie_versijami_1.png?raw=true
-.. |image58| image:: https://github.com/citoruspm/GeoData/blob/master/upravlenie_versijami_2.png?raw=true
-.. |image59| image:: https://github.com/citoruspm/GeoData/blob/master/upravlenie_versijami_3.png?raw=true
-.. |image60| image:: https://github.com/citoruspm/GeoData/blob/master/udalenie_svjazi_2.png?raw=true
-.. |image61| image:: https://github.com/citoruspm/GeoData/blob/master/udalenie_svjazi_3.png?raw=true
-.. |image62| image:: https://github.com/citoruspm/GeoData/blob/master/prosmotr_informacii_3.png?raw=true
-.. |image63| image:: https://github.com/citoruspm/GeoData/blob/master/24.png?raw=true
-.. |image64| image:: https://github.com/citoruspm/GeoData/blob/master/25.png?raw=true
-.. |image65| image:: https://github.com/citoruspm/GeoData/blob/master/22.png?raw=true
-.. |image66| image:: https://github.com/citoruspm/GeoData/blob/master/upravlenie_obektami_v_rezhime_prosmotra_1.png?raw=true
-.. |image67| image:: https://github.com/citoruspm/GeoData/blob/master/26.png?raw=true
-.. |image68| image:: https://github.com/citoruspm/GeoData/blob/master/upravlenie_obektami_v_rezhime_prosmotra_2.png?raw=true
-.. |image69| image:: https://github.com/citoruspm/GeoData/blob/master/27.png?raw=true
-.. |image70| image:: https://github.com/citoruspm/GeoData/blob/master/28.png?raw=true
-.. |image71| image:: https://github.com/citoruspm/GeoData/blob/master/29.png?raw=true
-.. |image72| image:: https://github.com/citoruspm/GeoData/blob/master/30.png?raw=true
-.. |image73| image:: https://github.com/citoruspm/GeoData/blob/master/31.png?raw=true
-.. |image74| image:: https://github.com/citoruspm/GeoData/blob/master/upravlenie_obektami_v_rezhime_redaktirovanija_2.png?raw=true
-.. |image75| image:: https://github.com/citoruspm/GeoData/blob/master/vvod_i_validacija_znachenij_1.png?raw=true
-.. |image76| image:: https://github.com/citoruspm/GeoData/blob/master/vvod_i_validacija_znachenij_2.png?raw=true
-.. |image77| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image78| image:: https://github.com/citoruspm/GeoData/blob/master/multipliciruemaja_kategorija_1.png?raw=true
-.. |image79| image:: https://github.com/citoruspm/GeoData/blob/master/redaktor_formatiruemogo_teksta_1.png?raw=true
-.. |image80| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_tipa_obekta_1.png?raw=true
-.. |image81| image:: https://github.com/citoruspm/GeoData/blob/master/33.png?raw=true
-.. |image82| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_tipa_obekta_2.png?raw=true
-.. |image83| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_tipa_obekta_3.png?raw=true
-.. |image84| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_tipa_obekta_4.png?raw=true
-.. |image85| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_tipa_obekta_5.png?raw=true
-.. |image86| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image87| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_tipa_obekta_6.png?raw=true
-.. |image88| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_tipa_obekta_7.png?raw=true
-.. |image89| image:: https://github.com/citoruspm/GeoData/blob/master/35.png?raw=true
-.. |image90| image:: https://github.com/citoruspm/GeoData/blob/master/36.png?raw=true
-.. |image91| image:: https://github.com/citoruspm/GeoData/blob/master/35.png?raw=true
-.. |image92| image:: https://github.com/citoruspm/GeoData/blob/master/36.png?raw=true
-.. |image93| image:: https://github.com/citoruspm/GeoData/blob/master/34.png?raw=true
-.. |image94| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_tipa_obekta_8.png?raw=true
-.. |image95| image:: https://github.com/citoruspm/GeoData/blob/master/27.png?raw=true
-.. |image96| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_tipa_obekta_1.png?raw=true
-.. |image97| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_tipa_obekta_2.png?raw=true
-.. |image98| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_tipa_obekta_3.png?raw=true
-.. |image99| image:: https://github.com/citoruspm/GeoData//blob/master/30.png?raw=true
-.. |image100| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_tipa_obekta_4.png?raw=true
-.. |image101| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_1.png?raw=true
-.. |image102| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_2.png?raw=true
-.. |image103| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image104| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image105| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_3.png?raw=true
-.. |image106| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_4.png?raw=true
-.. |image107| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_5.png?raw=true
-.. |image108| image:: https://github.com/citoruspm/GeoData/blob/master/37.png?raw=true
-.. |image109| image:: https://github.com/citoruspm/GeoData/blob/master/28.png?raw=true
-.. |image110| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_6.png?raw=true
-.. |image111| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_7.png?raw=true
-.. |image112| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_8.png?raw=true
-.. |image113| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_9.png?raw=true
-.. |image114| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_10.png?raw=true
-.. |image115| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_kategorii_obekta_11.png?raw=true
-.. |image116| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_kategorii_obekta_1.png?raw=true
-.. |image117| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_kategorii_obekta_2.png?raw=true
-.. |image118| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_kategorii_obekta_3.png?raw=true
-.. |image119| image:: https://github.com/citoruspm/GeoData/blob/master/31.png?raw=true
-.. |image120| image:: https://github.com/citoruspm/GeoData/blob/master/33.png?raw=true
-.. |image121| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_formy_1.png?raw=true
-.. |image122| image:: https://github.com/citoruspm/GeoData/blob/master/27.png?raw=true
-.. |image123| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_utility_4.png?raw=true
-.. |image124| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image125| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image126| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_utility_6.png?raw=true
-.. |image127| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_utility_5.png?raw=true
-.. |image128| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_utility_7.png?raw=true
-.. |image129| image:: https://github.com/citoruspm/GeoData/blob/master/27.png?raw=true
-.. |image130| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_utility_8.png?raw=true
-.. |image131| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image132| image:: https://github.com/citoruspm/GeoData/blob/master/23.png?raw=true
-.. |image133| image:: https://github.com/citoruspm/GeoData/blob/master/sozdanie_utility_9.png?raw=true
-.. |image134| image:: https://github.com/citoruspm/GeoData//blob/master/27.png?raw=true
-.. |image135| image:: https://github.com/citoruspm/GeoData/blob/master/redaktirovanie_utility_1.png?raw=true
-.. |image136| image:: https://github.com/citoruspm/GeoData/blob/master/poisk_obektov_sistemy_1.png?raw=true
-.. |image137| image:: https://github.com/citoruspm/GeoData/blob/master/poisk_obektov_sistemy_2.png?raw=true
-.. |image138| image:: https://github.com/citoruspm/GeoData/blob/master/39.png?raw=true
-.. |image139| image:: https://github.com/citoruspm/GeoData/blob/master/38.png?raw=true
-.. |image140| image:: https://github.com/citoruspm/GeoData/blob/master/40.png?raw=true
-.. |image141| image:: https://github.com/citoruspm/GeoData/blob/master/41.png?raw=true
-.. |image142| image:: https://github.com/citoruspm/GeoData/blob/master/42.png?raw=true
-.. |image143| image:: https://github.com/citoruspm/GeoData/blob/master/43.png?raw=true
-.. |image144| image:: https://github.com/citoruspm/GeoData/blob/master/44.png?raw=true
-.. |image145| image:: https://github.com/citoruspm/GeoData/blob/master/45.png?raw=true
-.. |image146| image:: https://github.com/citoruspm/GeoData//blob/master/46.png?raw=true
-.. |image147| image:: https://github.com/citoruspm/GeoData/blob/master/47.png?raw=true
-.. |image148| image:: https://github.com/citoruspm/GeoData/blob/master/poisk_obektov_sistemy_3.png?raw=true
-.. |image149| image:: https://github.com/citoruspm/GeoData/blob/master/tablichnoe_predstavlenie_1.png?raw=true
